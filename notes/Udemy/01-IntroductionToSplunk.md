@@ -1,4 +1,4 @@
-#:: About Splunk ::
+# :: About Splunk ::
 
 - What is Splunk?
 	- Log collection / Log management
